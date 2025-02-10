@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="product_image">Imagen del producto</string>
+    <string name="app_name">Welcome</string>
+    <string name="intro_title">Bienvenido a ReportCapy \n yo te guiare a como usar \n la app  <font color="#457B9D">  Estas listo para empezar??</font></string>
+    <string name="intro_text">Da un paso haiea el futuro \nConmigo ciudano</string>
+    <string name="intro_signin">Already have an account?<font color="#6033ba">Sign In</font></string>
+
+</resources>
