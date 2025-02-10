@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114042574391",
+    "project_id": "tiendashop-4532b",
+    "storage_bucket": "tiendashop-4532b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114042574391:android:201042f6f529c41b0211b2",
+        "android_client_info": {
+          "package_name": "com.example.tiendaonlineshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUYQr__Q4oIRJGDT6tkujsLKgQSnHGS1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
